@@ -1,6 +1,5 @@
 # Python-Data-Analysis
 
-# Sales Data Analysis
 
 This project analyzes sales data for a fictional company to identify trends and patterns in customer behavior. By examining customer demographics, purchase history, and product categories, we aim to identify opportunities for increasing sales and improving customer satisfaction.
 
