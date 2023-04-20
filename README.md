@@ -43,4 +43,4 @@ You can install these dependencies using pip by running pip install -r requireme
 
 # Contributing
 
-We welcome contributions from the community! To contribute, please submit a pull request or report an issue on our GitHub repository.
+We welcome contributions from the community. To contribute, please submit a pull request or report an issue on our GitHub repository.
