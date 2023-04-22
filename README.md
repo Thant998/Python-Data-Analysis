@@ -36,8 +36,7 @@ The project requires Python 3.x and the following libraries:
 - Pandas
 - Numpy
 - Matplotlib
-- Seaborn
-- Scikit-Learn
+
 
 You can install these dependencies using pip by running pip install -r requirements.txt.
 
