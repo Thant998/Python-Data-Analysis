@@ -20,7 +20,7 @@ The sales data was collected over a period of one year and includes information 
 
 # Data Sources
 
-The data was collected using the company's point-of-sale system and is stored in a CSV file. Before analysis, we cleaned and transformed the data to ensure consistency and accuracy.
+The data was collected using the company's point-of-sale system and is stored in a CSV and Excel file. Before analysis, we cleaned and transformed the data to ensure consistency and accuracy.
 
 # Methods
 
