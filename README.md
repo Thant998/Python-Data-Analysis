@@ -3,7 +3,7 @@
 
 This project analyzes sales data for a fictional company to identify trends and patterns in customer behavior. By examining customer demographics, purchase history, and product categories, we aim to identify opportunities for increasing sales and improving customer satisfaction.
 
-# Table of Contents :
+# Table of Contents:
 
 - Background
 - Data Sources
