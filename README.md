@@ -1,5 +1,4 @@
-# Python-Data-Analysis:
-
+# Python-Data-Analysis
 
 This project analyzes sales data for a fictional company to identify trends and patterns in customer behavior. By examining customer demographics, purchase history, and product categories, we aim to identify opportunities for increasing sales and improving customer satisfaction.
 
@@ -36,7 +35,6 @@ The project requires Python 3.x and the following libraries:
 - Pandas
 - Numpy
 - Matplotlib
-
 
 You can install these dependencies using pip by running pip install -r requirements.txt.
 
